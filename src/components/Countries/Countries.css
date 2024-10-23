@@ -1,0 +1,12 @@
+.countries-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+.visited {
+  background-color: pink;
+  color: black;
+}
+.country-flags {
+  width: 100px;
+}

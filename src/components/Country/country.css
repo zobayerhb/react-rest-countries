@@ -1,0 +1,6 @@
+.box{
+    border: 1px solid tomato;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
